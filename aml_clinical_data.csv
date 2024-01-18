@@ -1,0 +1,201 @@
+Cancer Type,Detected,Overall Survival Status,Mutation Count,Fraction Genome Altered,Diagnosis Age,Sex,Ethnicity Category,Race Category,Sample Type,Abnormal Lymphocyte Percent,Atra Exposure,Basophils Cell Count,Blast Count,Cytogenetic abnormality type,FAB,Molecular Analysis Performed Indicator,Overall Survival Status,Platelet count preresection,Primary Tumor Site,Prior Cancer Diagnosis Occurence,Tissue Source Site,Tumor Tissue Site
+Leukemia,1,1:DECEASED,10,,50,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,52,Normal,M4,YES,1:DECEASED,231,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0,61,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M3,YES,1:DECEASED,90,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,7,0,30,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,YES,0,6,Normal,M3,YES,0:LIVING,114,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0253,77,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,56,Normal,M0 Undifferentiated,NO,1:DECEASED,105,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,17,0.0435,46,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,81,t(8;21),M1,NO,1:DECEASED,90,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,27,0.0111,68,Female,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,0,55,,M1,YES,1:DECEASED,63,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0.0002,23,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,0,Normal,M2,NO,0:LIVING,38,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0.0023,64,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M3,NO,1:DECEASED,100,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0008,76,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,88,,M2,NO,1:DECEASED,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0,81,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,37,Normal,M4,NO,1:DECEASED,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,7,0.0001,25,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,87,Normal,M2,NO,1:DECEASED,23,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0.1235,78,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,6,Complex - >= 3 distinct abnormalities|del(5q) / 5q-,M4,NO,1:DECEASED,98,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.0001,39,Female,NOT HISPANIC OR LATINO,WHITE,Primary,16,NO,0,4,del(5q) / 5q-,M0 Undifferentiated,NO,1:DECEASED,215,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,,0.0001,49,Male,NOT HISPANIC OR LATINO,WHITE,Primary,11,NO,1,48,inv(16),M4,NO,1:DECEASED,14,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0,57,Female,NOT HISPANIC OR LATINO,WHITE,Primary,10,NO,0,84,Normal,M4,NO,1:DECEASED,56,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.0544,64,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,70,Normal|del(7q) / 7q-,M2,NO,1:DECEASED,19,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0007,62,Female,NOT HISPANIC OR LATINO,ASIAN,Primary,0,NO,0,53,Normal,M2,NO,1:DECEASED,110,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0,52,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,18,Normal|t(8;21),M2,NO,0:LIVING,22,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.4082,76,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,82,Complex - >= 3 distinct abnormalities|+8,M0 Undifferentiated,NO,1:DECEASED,85,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0499,64,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,5,Normal|+8,M1,NO,1:DECEASED,42,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,17,0.0499,65,Male,NOT HISPANIC OR LATINO,WHITE,Primary,16,NO,0,34,8,M0 Undifferentiated,YES,1:DECEASED,16,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0224,61,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,68,t(15;17) and variants,M3,NO,1:DECEASED,22,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,5,0,45,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,5,Normal,M5,NO,1:DECEASED,50,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0.0004,31,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,6,Normal,M5,NO,1:DECEASED,42,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,5,0.0001,64,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,90,Normal,M4,,1:DECEASED,15,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0001,33,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M2,NO,1:DECEASED,61,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0.001,55,Male,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,0,67,,M4,NO,0:LIVING,65,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.1169,50,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,0,,M6,NO,1:DECEASED,50,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.027,64,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,22,Normal,M4,NO,1:DECEASED,134,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0,59,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,12,Normal,M0 Undifferentiated,NO,1:DECEASED,102,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0001,60,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M5,NO,1:DECEASED,57,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,,77,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,2,Normal,M4,NO,1:DECEASED,29,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0003,33,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,3,14,,M4,NO,1:DECEASED,111,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,3,0.0003,48,Male,NOT HISPANIC OR LATINO,WHITE,Primary,40,NO,0,3,Normal,M5,NO,0:LIVING,50,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0.0001,35,Male,NOT HISPANIC OR LATINO,WHITE,Primary,7,NO,1,18,Normal,M4,NO,1:DECEASED,44,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0,66,Female,NOT HISPANIC OR LATINO,WHITE,Primary,30,NO,1,7,Normal,M5,NO,1:DECEASED,34,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0.2017,67,Male,NOT HISPANIC OR LATINO,WHITE,Primary,8,NO,0,17,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-|+8,M2,NO,1:DECEASED,28,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,18,0,51,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,79,Normal,M2,NO,1:DECEASED,232,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0002,74,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,t(15;17) and variants,M3,YES,1:DECEASED,42,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0,51,Female,NOT HISPANIC OR LATINO,WHITE,Primary,8,NO,1,40,t(15;17) and variants,M3,NO,1:DECEASED,58,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0001,65,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,0,,M4,NO,1:DECEASED,27,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,,77,Male,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,0,8,,M6,NO,1:DECEASED,86,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0,63,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,71,,M2,NO,1:DECEASED,23,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0.0001,37,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,10,33,Normal,M2,NO,1:DECEASED,38,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0,57,Female,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,3,17,inv(16),M4,NO,1:DECEASED,76,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,,53,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,41,Normal|del(7q) / 7q-,M1,NO,1:DECEASED,108,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0001,62,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,65,Normal,M4,NO,1:DECEASED,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,22,0.0986,39,Male,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,0,53,,M0 Undifferentiated,NO,0:LIVING,175,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0.0001,72,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,7,NO,1,0,Normal,M2,NO,1:DECEASED,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,7,0,66,Female,NOT HISPANIC OR LATINO,WHITE,Primary,12,NO,0,11,Normal,M5,NO,1:DECEASED,132,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,7,0.0001,51,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,85,Normal,M1,NO,1:DECEASED,23,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.0002,51,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,3,2,,M4,NO,1:DECEASED,143,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0.1224,18,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,90,Complex - >= 3 distinct abnormalities,M1,NO,1:DECEASED,30,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,,0,63,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,3,39,Normal,M4,NO,1:DECEASED,41,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.1175,54,Male,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,1,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-,M6,NO,1:DECEASED,9,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0.0002,75,Female,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,0,54,t(8;21),M2,NO,1:DECEASED,21,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0.0003,40,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,2,NO,1,23,Normal,M2,NO,1:DECEASED,95,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.1292,60,Female,NOT HISPANIC OR LATINO,WHITE,Primary,14,NO,2,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-,M7,NO,1:DECEASED,59,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,16,0.0504,76,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,2,0,Normal|+8,M5,NO,1:DECEASED,79,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0.0001,33,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,2,NO,0,0,Normal,M3,NO,0:LIVING,38,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,16,0.0498,63,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,97,8,M1,YES,1:DECEASED,11,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.0498,54,Female,HISPANIC OR LATINO,WHITE,Primary,0,NO,0,42,Normal|+8,M1,NO,1:DECEASED,68,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,16,0.0785,75,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,48,,M1,NO,1:DECEASED,22,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0003,67,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,61,Normal,M1,NO,1:DECEASED,141,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0,66,Female,NOT HISPANIC OR LATINO,WHITE,Primary,17,NO,0,6,Normal,M2,YES,1:DECEASED,168,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0.1936,77,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|+8,M7,NO,1:DECEASED,70,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0,64,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,46,Normal,M2,YES,0:LIVING,41,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.0001,76,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,55,Normal|inv(16),M1,YES,1:DECEASED,21,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,15,0,51,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,5,NO,0,10,Normal,M1,YES,0:LIVING,25,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0.0188,42,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,2,YES,0,2,Complex - >= 3 distinct abnormalities|t(15;17) and variants,M3,YES,0:LIVING,35,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0002,51,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M5,YES,0:LIVING,14,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,14,0.0544,59,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,48,del(7q) / 7q-,M2,YES,0:LIVING,20,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0.0001,43,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,39,t(8;21),M2,YES,0:LIVING,67,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,,45,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,4,37,Normal,M2,NO,0:LIVING,116,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,21,0,60,Female,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,3,43,,M1,NO,0:LIVING,45,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,13,0.1452,47,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,5,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-,M2,NO,1:DECEASED,57,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,5,0.0001,68,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,91,Normal,M1,YES,0:LIVING,8,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,2,0,24,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,76,Normal,M1,YES,1:DECEASED,34,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,7,0,48,Female,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,41,Normal|inv(16),M1,YES,0:LIVING,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0.0649,73,Female,,WHITE,Primary,2,NO,0,16,Normal|del(7q) / 7q-,M2,NO,1:DECEASED,60,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,1,0.3593,60,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,30,Normal|Complex - >= 3 distinct abnormalities|+8,M5,YES,0:LIVING,93,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0,44,Female,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,17,Normal,M1,YES,1:DECEASED,145,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.2083,71,Male,NOT HISPANIC OR LATINO,WHITE,Primary,8,NO,1,54,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-,M0 Undifferentiated,YES,1:DECEASED,48,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,13,0.0116,26,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,50,t(8;21),M2,YES,0:LIVING,33,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0332,60,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,65,del(7q) / 7q-,M1,YES,1:DECEASED,50,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,7,0.0001,57,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,0,,M4,YES,0:LIVING,129,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0002,55,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,59,inv(16),M4,NO,0:LIVING,9,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,7,0.0483,69,Male,NOT HISPANIC OR LATINO,WHITE,Primary,8,NO,1,22,Normal,M0 Undifferentiated,NO,1:DECEASED,61,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,,42,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,1,NO,0,51,Complex - >= 3 distinct abnormalities,M1,YES,1:DECEASED,176,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0001,42,Female,NOT HISPANIC OR LATINO,WHITE,Primary,4,NO,4,16,Normal|inv(16),M4,NO,0:LIVING,12,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,,0.0001,45,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,6,,M5,NO,1:DECEASED,53,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0.0544,50,Female,NOT HISPANIC OR LATINO,WHITE,Primary,5,NO,2,10,Normal|del(7q) / 7q-|t(9;11),M5,NO,1:DECEASED,136,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0003,41,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,90,,M1,YES,1:DECEASED,40,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0.0001,21,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,72,Normal,M5,YES,1:DECEASED,73,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0.0005,50,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,YES,0.3,0,Normal|t(15;17) and variants,M3,NO,0:LIVING,27,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,12,0.051,69,Female,NOT HISPANIC OR LATINO,WHITE,Primary,40,NO,0,32,8,M1,NO,0:LIVING,12,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,13,0.0457,76,Female,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,0,0,Normal,M4,NO,1:DECEASED,166,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,18,0.0001,70,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,8,49,Normal,M1,NO,1:DECEASED,30,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0.1119,27,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,88,Complex - >= 3 distinct abnormalities|+8,M2,YES,0:LIVING,87,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,2,0,76,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,98,Normal,M1,NO,1:DECEASED,40,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,17,0.1791,65,Male,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,0,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|+8,M0 Undifferentiated,YES,1:DECEASED,94,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,17,0.0001,48,Male,HISPANIC OR LATINO,WHITE,Primary,8,NO,0,0,Normal|t(15;17) and variants,M3,YES,0:LIVING,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0,59,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,YES,0,15,t(15;17) and variants,M3,YES,0:LIVING,23,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0,69,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,0,Normal,M0 Undifferentiated,NO,1:DECEASED,127,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,18,0.0933,81,Male,NOT HISPANIC OR LATINO,WHITE,Primary,5,NO,0,0,Complex - >= 3 distinct abnormalities|del(5q) / 5q-,M2,YES,1:DECEASED,39,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,0,0:LIVING,1,0.0065,22,Male,NOT HISPANIC OR LATINO,ASIAN,Primary,0,NO,0,94,Normal,Not Classified,YES,0:LIVING,57,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0482,61,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,55,Normal,M5,NO,1:DECEASED,35,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,3,0.0006,51,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,39,Normal|Complex - >= 3 distinct abnormalities,M4,NO,0:LIVING,21,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,19,0.05,63,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,9,8,M4,YES,1:DECEASED,148,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,12,0.05,61,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,86,Normal|+8,M0 Undifferentiated,NO,0:LIVING,25,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,16,0.0003,22,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,70,Normal|inv(16),M2,YES,0:LIVING,149,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.0554,73,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,11,Complex - >= 3 distinct abnormalities,M2,YES,1:DECEASED,64,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0.0461,48,Female,HISPANIC OR LATINO,WHITE,Primary,0,NO,0,5,,M4,YES,0:LIVING,351,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,15,0.1126,41,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,74,Normal|Complex - >= 3 distinct abnormalities|del(7q) / 7q-,M0 Undifferentiated,NO,0:LIVING,71,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,,47,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,79,8,M1,YES,1:DECEASED,53,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0.0001,54,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,90,Normal,M1,YES,0:LIVING,22,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0.1582,44,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,83,Normal|Complex - >= 3 distinct abnormalities|del(7q) / 7q-|+8,M2,YES,1:DECEASED,35,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0014,56,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,57,Normal,M4,YES,1:DECEASED,31,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,11,0.0001,83,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,74,Normal,M0 Undifferentiated,YES,1:DECEASED,46,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,20,0.03,78,Male,NOT HISPANIC OR LATINO,WHITE,Primary,7,NO,0,28,Normal,M4,YES,1:DECEASED,85,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0,59,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,17,Normal,M4,YES,0:LIVING,18,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,16,0.0001,57,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,4,Normal,M5,YES,1:DECEASED,80,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.05,57,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,91,8,M1,YES,1:DECEASED,62,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,21,0.0001,88,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,0,Normal,M1,NO,1:DECEASED,156,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0.0544,43,Female,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,,NO,0,91,del(7q) / 7q-,M1,YES,1:DECEASED,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.1298,71,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,50,Normal|Complex - >= 3 distinct abnormalities|del(7q) / 7q-,M0 Undifferentiated,YES,1:DECEASED,50,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0001,63,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,49,Normal,M2,YES,1:DECEASED,69,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,11,0,75,Male,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,0,80,,M2,YES,1:DECEASED,31,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0.0004,62,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,22,Normal,M5,YES,0:LIVING,20,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,1,0.0274,58,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,64,Normal,M4,YES,1:DECEASED,57,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0,65,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,84,Normal,M1,YES,0:LIVING,142,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.2002,66,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,12,del(5q) / 5q-|del(7q) / 7q-,M4,YES,1:DECEASED,37,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,0,0:LIVING,5,0,61,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,14,Normal,M0 Undifferentiated,YES,0:LIVING,79,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0005,36,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,86,t(8;21),M1,YES,1:DECEASED,66,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,17,0.0687,76,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,6,Normal,M7,NO,1:DECEASED,21,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,13,0.095,72,Male,NOT HISPANIC OR LATINO,WHITE,Primary,48,NO,3,18,Complex - >= 3 distinct abnormalities|del(5q) / 5q-,M1,NO,0:LIVING,31,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0.0113,35,Male,NOT HISPANIC OR LATINO,WHITE,Primary,5,NO,9,40,Normal,M2,NO,1:DECEASED,88,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0.0008,73,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal|del(5q) / 5q-|del(7q) / 7q-,Not Classified,NO,1:DECEASED,11,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0001,67,Female,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,61,Normal|inv(16),M4,YES,0:LIVING,15,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,11,0.18,70,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,6,Complex - >= 3 distinct abnormalities|del(5q) / 5q-,M1,YES,1:DECEASED,82,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,,0.0546,48,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,2,87,,M0 Undifferentiated,YES,1:DECEASED,53,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.047,65,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Complex - >= 3 distinct abnormalities,M4,NO,1:DECEASED,76,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,1,0.008,41,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,3,62,,M2,,0:LIVING,51,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,3,0,52,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,51,Normal,M4,YES,0:LIVING,68,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0,67,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,6,Normal,M4,YES,1:DECEASED,64,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,16,0.0115,58,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,72,Complex - >= 3 distinct abnormalities|del(7q) / 7q-|+8,M0 Undifferentiated,YES,0:LIVING,55,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0.0002,34,Female,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,59,t(8;21),M2,YES,0:LIVING,40,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0.2071,60,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,29,Complex - >= 3 distinct abnormalities|del(5q) / 5q-|del(7q) / 7q-|+8,M1,YES,1:DECEASED,90,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,1,0.0153,55,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,24,Normal,M4,NO,0:LIVING,37,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,13,0.0004,56,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,96,Normal,M2,NO,1:DECEASED,45,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0.0202,61,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal|t(9;11),M5,YES,1:DECEASED,36,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0003,31,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,53,inv(16),M4,YES,0:LIVING,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,23,0,71,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,13,Normal,M0 Undifferentiated,YES,1:DECEASED,86,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0,56,Male,NOT HISPANIC OR LATINO,WHITE,Primary,6,NO,0,45,Normal,M1,NO,1:DECEASED,88,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,14,0,58,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,61,Normal,M1,NO,0:LIVING,35,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0,60,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,56,Normal,M4,NO,1:DECEASED,174,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,11,0.0006,57,Female,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,35,Normal,M2,YES,1:DECEASED,28,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0.0009,58,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,10,Normal,M4,NO,0:LIVING,121,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0004,79,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal,M4,NO,1:DECEASED,131,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,8,0,55,Male,NOT HISPANIC OR LATINO,WHITE,Primary,8,NO,1,8,Normal,M5,NO,0:LIVING,17,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0.0001,34,Female,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,0,58,Normal,M4,YES,1:DECEASED,152,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,9,0.0023,76,Female,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,0,16,Normal,M4,YES,1:DECEASED,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,21,0.0003,82,Female,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,25,Normal,M2,YES,1:DECEASED,30,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0.0003,68,Female,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,0,10,Normal,M4,YES,1:DECEASED,79,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,6,0,67,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,3,Normal,M5,YES,1:DECEASED,79,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,2,0.0001,54,Male,NOT HISPANIC OR LATINO,BLACK OR AFRICAN AMERICAN,Primary,0,NO,0,71,Normal,M2,YES,1:DECEASED,87,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,15,0,53,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,52,Normal,M1,YES,1:DECEASED,30,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,5,0.0001,71,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,67,Normal,M2,YES,1:DECEASED,44,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,16,0,61,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,4,32,Normal,M2,YES,0:LIVING,140,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,7,,30,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,88,Normal,M1,YES,0:LIVING,59,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,5,0.0001,50,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,10,t(15;17) and variants,M3,YES,0:LIVING,58,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,5,,35,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,8,Normal,M5,YES,0:LIVING,19,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,2,0.0001,29,Female,,,Primary,0,NO,1,0,Normal|t(15;17) and variants,M3,YES,0:LIVING,29,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0,45,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,5,0,Normal,M0 Undifferentiated,NO,1:DECEASED,156,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0,38,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,97,Normal,M1,NO,0:LIVING,19,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,4,0,81,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,7,Normal,M5,NO,1:DECEASED,61,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0.0001,31,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,45,Normal,M2,YES,1:DECEASED,36,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,7,0.0001,75,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal|del(7q) / 7q-,M5,YES,1:DECEASED,11,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0,67,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,49,Normal,M1,YES,1:DECEASED,71,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,11,0.0002,29,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,9,Normal,M2,,1:DECEASED,13,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,8,0,51,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,85,Normal,M1,YES,0:LIVING,45,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,8,0,40,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,,0,0,+8|t(15;17) and variants,M3,NO,0:LIVING,34,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,8,0.0005,32,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,70,Normal,M1,NO,1:DECEASED,39,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,12,0,57,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,,0,91,Normal,M4,NO,1:DECEASED,82,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0,25,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,7,t(15;17) and variants,M3,NO,0:LIVING,18,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,5,0.0004,63,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,,2,0,Normal,M2,NO,0:LIVING,43,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,12,0.0001,74,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,2,Normal,M2,NO,0:LIVING,118,Peripheral Blood,Yes,AB,Bone Marrow
+Leukemia,1,1:DECEASED,10,0.0001,25,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,t(15;17) and variants,M3,YES,1:DECEASED,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,5,0,68,Female,NOT HISPANIC OR LATINO,WHITE,Primary,3,NO,1,32,t(15;17) and variants,M3,YES,1:DECEASED,73,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,8,0,62,Male,NOT HISPANIC OR LATINO,WHITE,Primary,6,NO,0,11,Normal|t(15;17) and variants,M3,NO,0:LIVING,15,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,3,0.0002,25,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,71,Normal,M2,NO,0:LIVING,60,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,10,0,31,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,0,Normal|t(15;17) and variants,M3,NO,0:LIVING,208,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,21,0.0002,68,Male,NOT HISPANIC OR LATINO,WHITE,Primary,2,NO,0,48,Normal,M2,NO,1:DECEASED,96,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,15,0.0001,45,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,12,0,Normal,M5,NO,0:LIVING,257,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,14,0,61,Male,NOT HISPANIC OR LATINO,WHITE,Primary,15,,2,14,Normal,M1,NO,1:DECEASED,61,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,6,0.0714,35,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,1,7,Normal|del(7q) / 7q-|+8|t(15;17) and variants,M3,NO,0:LIVING,12,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,3,0,22,Male,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,90,Normal,M1,NO,1:DECEASED,32,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,1,1:DECEASED,34,0.0005,23,Male,,,Primary,0,NO,0,63,Normal,M4,,1:DECEASED,23,Peripheral Blood,No,AB,
+Leukemia,0,0:LIVING,6,0,21,Female,NOT HISPANIC OR LATINO,WHITE,Primary,0,NO,0,83,Normal,M1,NO,0:LIVING,52,Peripheral Blood,No,AB,Bone Marrow
+Leukemia,0,0:LIVING,9,0.0001,53,Male,NOT HISPANIC OR LATINO,WHITE,Primary,1,NO,1,29,t(15;17) and variants,M3,NO,0:LIVING,46,Peripheral Blood,No,AB,Bone Marrow
