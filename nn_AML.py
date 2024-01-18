@@ -8,7 +8,8 @@ import torch.nn.init as init
 from sklearn.model_selection import train_test_split
 
 device = torch.device("cpu")
-heart = pd.read_csv("heart.csv")
+#heart = pd.read_csv("heart.csv")
+aml =pd.read_csv(
 heart=heart.drop(['thal'],axis=1)
 #print(heart.head())
 #print(heart.columns)
