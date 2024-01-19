@@ -10,13 +10,16 @@ from sklearn.model_selection import train_test_split
 device = torch.device("cpu")
 #heart = pd.read_csv("heart.csv")
 aml =pd.read_csv("aml_clinical_data.csv"
-heart=heart.drop(['thal'],axis=1)
+#heart=heart.drop(['thal'],axis=1)
+aml=aml.drop(['thal'],axis=1)               
 #print(heart.head())
 #print(heart.columns)
 #exit(0)
 
-train, test = train_test_split(heart, test_size=0.1)
+#train, test = train_test_split(heart, test_size=0.1)
+train, test = train_test_split(aml, test_size=0.1)
 
+#trainInputs = train[['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']].values
 trainInputs = train[['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']].values
 #print(trainInputs)
 
