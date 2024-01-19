@@ -20,7 +20,7 @@ aml=aml.drop(['thal'],axis=1)
 train, test = train_test_split(aml, test_size=0.1)
 
 #trainInputs = train[['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']].values
-trainInputs = train[['Diagnosis Age', 'Sex', 'Ethnicity Category', 'Mutation Count', 'Abnormal Lymphocyte Percent', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']].values
+trainInputs = train[['Diagnosis Age', 'Sex', 'Ethnicity Category', 'Mutation Count', 'Abnormal Lymphocyte Percent', 'Atra Exposure', 'Basophils Cell Count', 'Blast Count', 'Platelet count preresection', 'Prior Cancer Diagnosis Occurence']].values
 #print(trainInputs)
 
 
