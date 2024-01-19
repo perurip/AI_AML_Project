@@ -35,7 +35,7 @@ targets = torch.tensor(trainTargets, dtype=torch.long)
 #testInputs = torch.tensor(test[['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca']].values, dtype=torch.float)
 testInputs = torch.tensor(test[['Diagnosis Age', 'Sex', 'Ethnicity Category', 'Mutation Count', 'Abnormal Lymphocyte Percent', 'Atra Exposure', 'Basophils Cell Count', 'Blast Count', 'Platelet count preresection', 'Prior Cancer Diagnosis Occurence']].values, dtype=torch.float)
 #print(testInputs)
-testTarget = torch.tensor(test[test.columns[12]].values, dtype=torch.long)
+testTarget = torch.tensor(test[test.columns[2]].values, dtype=torch.long)
 #print(testTarget)
 
 #print(testInputs.size())
