@@ -102,23 +102,22 @@ torch.onnx.export(model,               # model being run
                   export_params=True,        # store the trained parameter weights inside the model file
                   opset_version=10,          # the ONNX version to export the model to
                   do_constant_folding=True,  # whether to execute constant folding for optimization
-                  #input_names = ['age', 'sex','cp','trestbps','chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'fbs', 'slope','ca',],   # the model's input names
                   input_names = ['Diagnosis Age', 'Sex', 'Ethnicity Category', 'Mutation Count', 'Abnormal Lymphocyte Percent', 'Atra Exposure', 'Basophils Cell Count', 'Blast Count', 'Platelet count preresection', 'Prior Cancer Diagnosis Occurence',],   # the model's input names
-                  output_names = ['target'], # the model's output names
+                  output_names = ['Detected'], # the model's output names
                   dynamic_axes={'input' : {0 : 'batch_size'},    # variable length axes
                                 'output' : {0 : 'batch_size'}})
-
-
+# input_names = ['age', 'sex','cp','trestbps','chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'fbs', 'slope','ca',],   # the model's input names
+#output_names = ['target'], # the model's output names
 x = torch.rand((12, 1), dtype=torch.float)
 torch.onnx.export(
             model,
             x,
-            "heart.onnx",
+            "aml.onnx",
             export_params=True,
             opset_version=10,
             do_constant_folding=True,
             #input_names = ['age', 'sex', 'cp', 'trestbps', 'chol', 'fbs', 'restecg', 'thalach', 'exang', 'oldpeak', 'slope', 'ca'],   # the model's input names
-            output_names = ['target'])
+            output_names = ['Detected'])
 
 
 '''
