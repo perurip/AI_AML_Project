@@ -64,7 +64,8 @@ model = NeuralNetwork(input_size=inputs.shape[1], hidden_size=256, num_classes=t
 model.to(device)
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-num_epochs = 10000
+#num_epochs = 10000
+num_epochs = 2000
 model.train(True)
 #file_obj = open("writing.txt", "w")
 
@@ -97,11 +98,12 @@ with torch.no_grad():
 '''
 torch.onnx.export(model,               # model being run
                   testInputs,                         # model input (or a tuple for multiple inputs)
-                  "heart.onnx",   # where to save the model (can be a file or file-like object)
+                  "aml.onnx",   # where to save the model (can be a file or file-like object. rename from heart to aml)
                   export_params=True,        # store the trained parameter weights inside the model file
                   opset_version=10,          # the ONNX version to export the model to
                   do_constant_folding=True,  # whether to execute constant folding for optimization
-                  input_names = ['age', 'sex','cp','trestbps','chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'fbs', 'slope','ca',],   # the model's input names
+                  #input_names = ['age', 'sex','cp','trestbps','chol', 'restecg', 'thalach', 'exang', 'oldpeak', 'fbs', 'slope','ca',],   # the model's input names
+                  input_names = ['Diagnosis Age', 'Sex', 'Ethnicity Category', 'Mutation Count', 'Abnormal Lymphocyte Percent', 'Atra Exposure', 'Basophils Cell Count', 'Blast Count', 'Platelet count preresection', 'Prior Cancer Diagnosis Occurence',],   # the model's input names
                   output_names = ['target'], # the model's output names
                   dynamic_axes={'input' : {0 : 'batch_size'},    # variable length axes
                                 'output' : {0 : 'batch_size'}})
